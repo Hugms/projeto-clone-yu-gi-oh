@@ -1,14 +1,12 @@
-@media(max-width: 768px) {    
+@media(max-width: 768px) {
     body {
-    background-position: center;
-    padding: 0 15px;
-
+        background-position: center;
+        padding: 0 15px;
     }
 
     .slider {
         gap: 10px;
     }
-  
 }
 
 @media(max-width: 496px) {
@@ -19,7 +17,6 @@
     .imagem-carta {
         width: 100%;
     }
-
 
     .slider {
         position: relative;
@@ -40,7 +37,7 @@
 }
 
 @media(max-width: 375px) {
-    body{
+    body {
         justify-content: start;
         padding-top: 10px;
         gap: 10px;
